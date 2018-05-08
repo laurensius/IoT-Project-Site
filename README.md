@@ -6,11 +6,12 @@
   <li> Penyimpanan data dari sensor ke dalam database </li>
 </ul>
 
-Berikut ini adalah screenshot aplikasi nya :
+Berikut ini adalah screenshot aplikasi nya :<br>
+<center>
 <img src="https://bintank23.files.wordpress.com/2018/05/screenshot-from-2018-05-08-13-51-03.png" width="50%" /><br>
 <img src="https://bintank23.files.wordpress.com/2018/05/screenshot-from-2018-05-08-13-51-26.png" width="50%" /><br>
 <img src="https://bintank23.files.wordpress.com/2018/05/screenshot-from-2018-05-08-13-51-37.png" width="50%" /><br>
-
+</center>
 Salam,
 
 <b>Laurensius Dede Suhardiman </b>
